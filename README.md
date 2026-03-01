@@ -9,6 +9,3 @@ Olá! Eu me chamo Dani e comecei minha aventura na área de programação recent
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-## ✨Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/dani-lameiras-6011b1263/)
-[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=&logoColor=0E76A8)](https://www.dio.me/users/danilameiras)
